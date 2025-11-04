@@ -1,4 +1,5 @@
 export const notionPosts = [
+
     {
       slug: "LOTO",
       img: "/images/loto_1.jpg",
@@ -47,6 +48,13 @@ export const notionPosts = [
       title: "Clogenstocks",
       desc: "",
       pageId: "22f9b541-6abb-80f9-a695-d7c149ac9d64",
+    },
+    {
+      slug: "Rothko-Color",
+      img: "/images/rothkoColor.png",
+      title: "Mark Rothko's Color",
+      desc: "",
+      pageId: "2a19b541-6abb-806c-ba6f-e578a35572bd",
     },
   ];
 
