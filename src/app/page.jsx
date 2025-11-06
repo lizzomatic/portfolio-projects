@@ -4,44 +4,6 @@ import React from 'react';
 import { Header } from '@/components/header/header.jsx';
 import { Footer } from '@/components/footer/footer.jsx';
 
-// const projects = [
-//   {
-//     title: "Lockout/Tagout Industrial Safety App",
-//     desc: "",
-//     img: "/images/loto_1.jpg",
-//     href: "",
-//     tags: []
-//   },
-//   {
-//     title: "Moon Viewing Chart",
-//     desc: "",
-//     img: "/images/moonViewingChart.jpg",
-//     href: "",
-//     tags: []
-//   },
-//   {
-//     title: "Drawing Hands",
-//     desc: "branding/visual identity work for a startup exploring AI-human collaboration. I used digitally hand-painted depthmap images of MC Escher's'drawing hands' passed into a stable diffusion ai model as depth information",
-//     img: "/images/hands_depthMap.png",
-//     href: "https://docs.google.com/presentation/d/e/2PACX-1vRltiDEraUNGqveIuMLLGXEL4heZMHh3-7fAANRVmqH_ppOb5pdNDDb-BxGE9eSskFR9DF81T_P18sX/pub?start=false&loop=false&delayms=3000",
-//     tags: []
-//   },
-//   {
-//     title: "Maximalizing Minimalism",
-//     desc: "uses stable diffusion controlnet to explore big complex meaning in minimalist art",
-//     img: "/images/rileyAI.png",
-//     href: "",
-//     tags: []
-//   },
-//   {
-//     title: "Image Archive",
-//     desc: "",
-//     img: "/images/arrowsFingers.jpg",
-//     href: "",
-//     tags: []
-//   },
-// ]
-
 export default () => {
   return (
     <div className='bg-white'>

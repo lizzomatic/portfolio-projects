@@ -65,6 +65,3 @@ export const notionPosts = [
       pageId: "2a19b541-6abb-806c-ba6f-e578a35572bd",
     },
   ];
-
-  
-  
