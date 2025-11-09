@@ -32,15 +32,4 @@ export default function BlogIndex() {
     </>
   );
 }
-// copied from projects page, rework in style of this...
-{/* <li className="p-1" key={key}>
-<Link className="flex sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3" href={`${items.href}`} >
-  <Image src={items.img} loading="lazy" alt={items.title} className="p-2 flex-none" width={400} height={400} />
-  <div className="justify-items-start p3">
-    <h3 className="text-lg text-gray-800 duration-150 group-hover:text-gray-800 font-semibold">
-      {items.title}
-    </h3>
-    <p className="text-gray-600 text-sm duration-150 group-hover:text-gray-800">{items.desc}</p>
-  </div>
-</Link>
-</li> */}
+
