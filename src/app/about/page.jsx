@@ -12,7 +12,7 @@ export default () => {
         <h1 className="text-lg font-medium ">
           Hello! My name is <b>Elizabeth Goltz</b>.
         </h1>
-        <p>I am a data nerd, life-long creative and trail runner living in Portland, Oregon. I have an MS in Applied Data Science from Portland State University '25.</p> 
+        <p>I am a data nerd, life-long creative and trail runner living in Portland, Oregon. I have an MS in Applied Data Science from Portland State University '25 and love visualizing complex data to support creative problem solving.</p> 
         <Link className="indent-8 text-emerald-950 font-medium text-shadow-lg" href={`/projects`} >
           <p>Check out some of my latest projects</p>
         </Link>
