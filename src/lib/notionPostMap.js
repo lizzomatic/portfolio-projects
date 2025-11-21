@@ -45,7 +45,7 @@ export const notionPosts = [
       img: "/images/libraryChairSocks.png",
       title: "Library Quiet Floor Chair Socks",
       desc: "",
-      tags: ["projects", "innovation"],
+      tags: ["projects", "product"],
       pageId: "2869b541-6abb-8078-878d-ef76626777c1",
     },
     {
